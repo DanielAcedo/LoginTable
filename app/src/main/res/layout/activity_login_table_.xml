@@ -51,6 +51,12 @@
 
     </TableRow>
 
+    <View
+        android:id="@+id/view1"
+        android:background="#F00000"
+        android:layout_height="2dp"
+        android:layout_width="match_parent"
+        />
     <TableRow
         android:layout_width="match_parent"
         android:layout_height="match_parent"
