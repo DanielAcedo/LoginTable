@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginTable</string>
+    <string name="txv_User">Usuario</string>
+    <string name="txv_Password">Contraseña</string>
+    <string name="chk_Remember">Remember</string>
+    <string name="btn_Ok">OK</string>
+    <string name="btn_Cancel">Cancel</string>
+</resources>
