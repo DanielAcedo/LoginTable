@@ -92,14 +92,14 @@
                     android:text="@string/btn_Ok"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button2"
+                    android:id="@+id/btn_Ok"
                      />
 
                 <Button
                     android:text="@string/btn_Cancel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button"
+                    android:id="@+id/btn_Cancel"
                      />
             </LinearLayout>
     </TableRow>
