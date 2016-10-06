@@ -11,6 +11,11 @@ import android.widget.Toast;
 import com.danielacedo.logintable.controller.ILoginMvc;
 import com.danielacedo.logintable.controller.LoginTable_Controller;
 
+/**
+ * Activity for a login page using the MVC pattern
+ * @author Daniel Acedo Calderón
+ */
+
 public class LoginTable_Activity extends AppCompatActivity {
 
     private ILoginMvc loginMvc;
@@ -64,6 +69,10 @@ public class LoginTable_Activity extends AppCompatActivity {
         });
     }
 
+    /**
+     * Reset the input fiels for the login
+     * @author Daniel Acedo Calderón
+     */
     private void resetValues() {
         edt_User.setText("");
         edt_Password.setText("");
