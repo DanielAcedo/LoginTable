@@ -1,7 +1,7 @@
 package com.danielacedo.logintable.controller;
 
 /**
- * Created by usuario on 5/10/16.
+ * Created by Daniel on 5/10/16.
  */
 
 import android.media.MediaCodec;
