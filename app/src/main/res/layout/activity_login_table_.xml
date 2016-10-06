@@ -93,7 +93,7 @@
                     android:text="@string/btn_Ok"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    style="@style/Widget.AppCompat.ButtonBar"
+                    style="?android:attr/buttonBarButtonStyle"
                     android:id="@+id/btn_Ok"
                      />
 
@@ -101,7 +101,7 @@
                     android:text="@string/btn_Cancel"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    style="@style/Widget.AppCompat.ButtonBar"
+                    style="?android:attr/buttonBarButtonStyle"
                     android:id="@+id/btn_Cancel"
                      />
             </LinearLayout>
