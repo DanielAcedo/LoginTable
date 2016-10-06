@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
  *
  */
 
-public class LoginTable_Controller{
+public class LoginTable_Controller implements ILoginMvc{
 
     public static final int OK = 0; // Success
     public static final int PASSWORD_DIGIT = 1; //The password doesn't comply with the password minimum digit policy
